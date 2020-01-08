@@ -57,7 +57,7 @@ public class AccueilAdminManagedBean implements Serializable {
 		setStockTotal(proxyStock.getTotalQuantity());
 		setStockVirtuel(proxyStock.getVirtualQuantity());
 		setCommandesEnAttente(proxyCommande.getAllToProcess());
-		approvisionnementsPerimes=proxyApprovisionnement.getAllApproPerimes();
+		setApprovisionnementsPerimes(proxyApprovisionnement.getAllApproPerimes()); 
 		
 	}
 	

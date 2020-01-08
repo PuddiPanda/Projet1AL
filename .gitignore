@@ -2,3 +2,16 @@
 .classpath
 .settings/
 .recommenders/
+Projet1Parent/Projet1Web/.settings/org.eclipse.jdt.core.prefs
+Projet1Parent/Projet1Web/.classpath
+Projet1Parent/Projet1InterfaceDao/.settings/org.eclipse.jdt.core.prefs
+Projet1Parent/Projet1InterfaceDao/.classpath
+Projet1Parent/Projet1InterfaceBusiness/.settings/org.eclipse.jdt.core.prefs
+Projet1Parent/Projet1InterfaceBusiness/.classpath
+Projet1Parent/Projet1Entity/.settings/org.eclipse.jdt.core.prefs
+Projet1Parent/Projet1Entity/.classpath
+Projet1Parent/Projet1EAR/.settings/org.eclipse.wst.common.component
+Projet1Parent/Projet1Dao/.settings/org.eclipse.jdt.core.prefs
+Projet1Parent/Projet1Dao/.classpath
+Projet1Parent/Projet1Business/.settings/org.eclipse.jdt.core.prefs
+Projet1Parent/Projet1Business/.classpath

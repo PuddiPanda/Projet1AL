@@ -11,6 +11,9 @@
         <dependent-module archiveName="commons-codec-1.9.jar" deploy-path="/lib" handle="module:/classpath/var/M2_REPO/commons-codec/commons-codec/1.9/commons-codec-1.9.jar">
             <dependency-type>uses</dependency-type>
         </dependent-module>
+        <dependent-module archiveName="log4j-1.2.17.jar" deploy-path="/lib" handle="module:/classpath/var/M2_REPO/log4j/log4j/1.2.17/log4j-1.2.17.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
         <dependent-module archiveName="Projet1InterfaceBusiness-1.0.jar" deploy-path="/lib" handle="module:/resource/Projet1InterfaceBusiness/Projet1InterfaceBusiness">
             <dependency-type>uses</dependency-type>
         </dependent-module>
